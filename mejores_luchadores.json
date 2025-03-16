@@ -1,0 +1,579 @@
+[
+  {
+    "id": 1,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Shawn_Michaels_WM24_shot_%28cropped%29.jpg/330px-Shawn_Michaels_WM24_shot_%28cropped%29.jpg",
+    "nombre": "Shawn Michaels",
+    "apodo": "The Heartbreak Kid",
+    "breve_descripcion": "Debutó en 1984. Conocido por su habilidad en el ring y su carisma, fue uno de los más grandes luchadores técnicos de todos los tiempos.",
+    "campeonatos": [
+      "Campeón de la WWE (3 veces)",
+      "Campeón Intercontinental (3 veces)",
+      "Royal Rumble (1995, 1996)"
+    ]
+  },
+  {
+    "id": 2,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Undertaker_with_Fire.jpg/330px-Undertaker_with_Fire.jpg",
+    "nombre": "The Undertaker",
+    "apodo": "The Phenom",
+    "breve_descripcion": "Debutó en 1990. Conocido por su racha invicta en WrestleMania y su personaje sombrío que aterrorizó a generaciones.",
+    "campeonatos": [
+      "Campeón de la WWE (4 veces)",
+      "Campeón Mundial Peso Pesado (3 veces)",
+      "Campeón en Parejas (6 veces)"
+    ]
+  },
+  {
+    "id": 3,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Austinentrance.jpg/480px-Austinentrance.jpg",
+    "nombre": "\"Stone Cold\" Steve Austin",
+    "apodo": "Stone Cold",
+    "breve_descripcion": "Debutó en 1989. Revolucionó la WWE durante la 'Attitude Era' con su actitud rebelde y rivalidades icónicas.",
+    "campeonatos": [
+      "Campeón de la WWE (6 veces)",
+      "Campeón Intercontinental (2 veces)",
+      "Royal Rumble (1997, 1998, 2001)"
+    ]
+  },
+  {
+    "id": 4,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Dwayne_Johnson_2014_%28cropped%29.jpg/270px-Dwayne_Johnson_2014_%28cropped%29.jpg",
+    "nombre": "The Rock",
+    "apodo": "The People's Champion",
+    "breve_descripcion": "Debutó en 1996. Famoso por su increíble habilidad en el micrófono y su legado como uno de los más grandes luchadores de todos los tiempos.",
+    "campeonatos": [
+      "Campeón de la WWE (8 veces)",
+      "Campeón Mundial Peso Pesado (2 veces)",
+      "Royal Rumble (2000)"
+    ]
+  },
+  {
+    "id": 5,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Hulk-a-Mania_Brother_%282722848959%29.jpg/330px-Hulk-a-Mania_Brother_%282722848959%29.jpg",
+    "nombre": "Hulk Hogan",
+    "apodo": "The Hulkster",
+    "breve_descripcion": "Debutó en 1977. Es uno de los luchadores más influyentes de todos los tiempos y la cara de la WWE en los años 80.",
+    "campeonatos": [
+      "Campeón de la WWE (6 veces)",
+      "Campeón Mundial Peso Pesado (12 veces)",
+      "Royal Rumble (1990, 1991)"
+    ]
+  },
+  {
+    "id": 6,
+    "imagen": "https://es.wikipedia.org/wiki/Archivo:Ric_Flair_Photo_Op_GalaxyCon_Louisville_2019.jpg",
+    "nombre": "Ric Flair",
+    "apodo": "The Nature Boy",
+    "breve_descripcion": "Debutó en 1972. Conocido como uno de los mejores luchadores técnicos de la historia, con un estilo de vida extravagante.",
+    "campeonatos": [
+      "Campeón Mundial de Peso Pesado (16 veces)",
+      "Campeón Intercontinental (2 veces)",
+      "Royal Rumble (1992)"
+    ]
+  },
+  {
+    "id": 7,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/John_Cena_RR25.jpg/375px-John_Cena_RR25.jpg",
+    "nombre": "John Cena",
+    "apodo": "The Cenation Leader",
+    "breve_descripcion": "Debutó en 2002. Conocido por su actitud positiva y sus innumerables campeonatos mundiales.",
+    "campeonatos": [
+      "Campeón de la WWE (16 veces)",
+      "Campeón Mundial Peso Pesado (5 veces)",
+      "Royal Rumble (2008)"
+    ]
+  },
+  {
+    "id": 8,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Bret_Canada_t-shirt.jpg",
+    "nombre": "Bret \"The Hitman\" Hart",
+    "apodo": "The Best There Is, The Best There Was, The Best There Ever Will Be",
+    "breve_descripcion": "Debutó en 1984. Conocido por su habilidad técnica en el ring, fue una de las estrellas más grandes de la era dorada de la WWE.",
+    "campeonatos": [
+      "Campeón de la WWE (5 veces)",
+      "Campeón Intercontinental (2 veces)",
+      "Campeón en Parejas (2 veces)"
+    ]
+  },
+  {
+    "id": 9,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Triple_H_Pose_Melbourne_10.11.2007.jpg/800px-Triple_H_Pose_Melbourne_10.11.2007.jpg",
+    "nombre": "Triple H",
+    "apodo": "The Game",
+    "breve_descripcion": "Debutó en 1995. Conocido por su habilidad estratégica y su dominio sobre la WWE durante la Attitude Era y el Ruthless Aggression Era.",
+    "campeonatos": [
+      "Campeón de la WWE (14 veces)",
+      "Campeón Mundial Peso Pesado (5 veces)",
+      "King of the Ring (1997)"
+    ]
+  },
+  {
+    "id": 10,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Randy_Savage_1986.jpg/800px-Randy_Savage_1986.jpg",
+    "nombre": "Randy \"Macho Man\" Savage",
+    "apodo": "Macho Man",
+    "breve_descripcion": "Debutó en 1973. Conocido por su estilo único y su gran carisma, fue uno de los luchadores más populares de la WWE.",
+    "campeonatos": [
+      "Campeón de la WWE (2 veces)",
+      "Campeón Mundial Peso Pesado (1 vez)",
+      "King of the Ring (1987)"
+    ]
+  }
+  {
+    "id": 11,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Eddie_Guerrero_2004.jpg/800px-Eddie_Guerrero_2004.jpg",
+    "nombre": "Eddie Guerrero",
+    "apodo": "Latino Heat",
+    "breve_descripcion": "Debutó en 1987. Reconocido por su habilidad técnica y su estilo único en el ring. Fue uno de los luchadores más carismáticos de la WWE.",
+    "campeonatos": [
+      "Campeón de la WWE (1 vez)",
+      "Campeón Intercontinental (2 veces)",
+      "Campeón en Parejas (4 veces)"
+    ]
+  },
+  {
+    "id": 12,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Rey_Mysterio_%2829081123617%29.jpg",
+    "nombre": "Rey Mysterio",
+    "apodo": "The Master of the 619",
+    "breve_descripcion": "Debutó en 1989. Famoso por su estilo aéreo y acrobático, ha sido uno de los luchadores más populares y un símbolo de la lucha libre mexicana.",
+    "campeonatos": [
+      "Campeón de la WWE (1 vez)",
+      "Campeón Mundial Peso Pesado (2 veces)",
+      "Campeón en Parejas (4 veces)"
+    ]
+  },
+  {
+    "id": 13,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Chris_Jericho_Wrestlemania_28.jpg/800px-Chris_Jericho_Wrestlemania_28.jpg",
+    "nombre": "Chris Jericho",
+    "apodo": "Y2J",
+    "breve_descripcion": "Debutó en 1990. Conocido por su increíble habilidad en el micrófono y en el ring, ha sido uno de los luchadores más exitosos en diversas promociones.",
+    "campeonatos": [
+      "Campeón de la WWE (6 veces)",
+      "Campeón Intercontinental (9 veces)",
+      "Campeón en Parejas (2 veces)"
+    ]
+  },
+  {
+    "id": 14,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Kurt_Angle_Photo_Op_GalaxyCon_Raleigh_2024.jpg/800px-Kurt_Angle_Photo_Op_GalaxyCon_Raleigh_2024.jpg",
+    "nombre": "Kurt Angle",
+    "apodo": "The Olympic Hero",
+    "breve_descripcion": "Debutó en 1999. Medallista olímpico en lucha libre, Kurt Angle se convirtió rápidamente en una de las figuras más dominantes en la WWE.",
+    "campeonatos": [
+      "Campeón de la WWE (4 veces)",
+      "Campeón Mundial Peso Pesado (2 veces)",
+      "Royal Rumble (2001)"
+    ]
+  },
+  {
+    "id": 15,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/EDGE_1999.jpg/800px-EDGE_1999.jpg",
+    "nombre": "Edge",
+    "apodo": "The Rated-R Superstar",
+    "breve_descripcion": "Debutó en 1996. Conocido por su estilo de lucha extremo y su habilidad para crear historias épicas en el ring.",
+    "campeonatos": [
+      "Campeón de la WWE (4 veces)",
+      "Campeón Mundial Peso Pesado (7 veces)",
+      "Money in the Bank (2005)"
+    ]
+  },
+  {
+    "id": 16,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/6/65/Mick-foley-at-signing.jpg",
+    "nombre": "Mick Foley",
+    "apodo": "Mankind",
+    "breve_descripcion": "Debutó en 1996. Conocido por su valentía y por sus luchas extremas, Mick Foley es uno de los luchadores más icónicos de la WWE.",
+    "campeonatos": [
+      "Campeón de la WWE (3 veces)",
+      "Campeón Hardcore (2 veces)",
+      "Royal Rumble (1998)"
+    ]
+  },
+  {
+    "id": 17,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/4/47/Orton_Royal_Rumble_2009.jpg",
+    "nombre": "Randy Orton",
+    "apodo": "The Viper",
+    "breve_descripcion": "Debutó en 2002. Reconocido por su agresividad y su habilidad para adaptarse a diferentes estilos de lucha, Randy Orton es una leyenda viva en la WWE.",
+    "campeonatos": [
+      "Campeón de la WWE (10 veces)",
+      "Campeón Mundial Peso Pesado (4 veces)",
+      "Royal Rumble (2009, 2017)"
+    ]
+  },
+  {
+    "id": 18,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CM_Punk_on_ring_apron.jpg/800px-CM_Punk_on_ring_apron.jpg",
+    "nombre": "CM Punk",
+    "apodo": "The Best in the World",
+    "breve_descripcion": "Debutó en 2004. Conocido por su estilo agresivo y su habilidad para conectarse con la audiencia, CM Punk es uno de los luchadores más influyentes de la era moderna.",
+    "campeonatos": [
+      "Campeón de la WWE (2 veces)",
+      "Campeón Mundial Peso Pesado (3 veces)",
+      "Money in the Bank (2008, 2009)"
+    ]
+  },
+  {
+    "id": 19,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Daniel_Bryan_in_April_2014.jpg/800px-Daniel_Bryan_in_April_2014.jpg",
+    "nombre": "Daniel Bryan",
+    "apodo": "The Yes Movement",
+    "breve_descripcion": "Debutó en 2000. Conocido por su estilo técnico y su popularidad entre los fanáticos, Daniel Bryan lideró el movimiento 'Yes' que cambió la WWE.",
+    "campeonatos": [
+      "Campeón de la WWE (4 veces)",
+      "Campeón Mundial Peso Pesado (1 vez)",
+      "Royal Rumble (2014)"
+    ]
+  },
+  {
+    "id": 20,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Brock_Lesnar_WWE_Champion_2014.jpg/800px-Brock_Lesnar_WWE_Champion_2014.jpg",
+    "nombre": "Brock Lesnar",
+    "apodo": "The Beast Incarnate",
+    "breve_descripcion": "Debutó en 2002. Conocido por su fuerza bruta y su dominio en el ring, Brock Lesnar ha sido una de las figuras más dominantes de la WWE.",
+    "campeonatos": [
+      "Campeón de la WWE (5 veces)",
+      "Campeón Universal (3 veces)",
+      "Money in the Bank (2015)"
+    ]
+  }
+  {
+    "id": 21,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/WWE_Champion_AJ_Styles.jpg/800px-WWE_Champion_AJ_Styles.jpg",
+    "nombre": "AJ Styles",
+    "apodo": "The Phenomenal One",
+    "breve_descripcion": "Debutó en 1998. Conocido por su habilidad en el ring y su técnica avanzada, AJ Styles ha sido uno de los luchadores más innovadores de la WWE.",
+    "campeonatos": [
+      "Campeón de la WWE (2 veces)",
+      "Campeón de los Estados Unidos (3 veces)",
+      "Campeón Intercontinental (1 vez)"
+    ]
+  },
+  {
+    "id": 22,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/United_States_Champion_Roman_Reigns.jpg/800px-United_States_Champion_Roman_Reigns.jpg",
+    "nombre": "Roman Reigns",
+    "apodo": "The Big Dog",
+    "breve_descripcion": "Debutó en 2010. Conocido por su dominio en el ring y su impresionante presencia, Roman Reigns ha sido una de las figuras más destacadas de la era moderna de la WWE.",
+    "campeonatos": [
+      "Campeón Universal (3 veces)",
+      "Campeón de la WWE (4 veces)",
+      "Royal Rumble (2015)"
+    ]
+  },
+  {
+    "id": 23,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Seth_Rollins_November_2013.jpg/800px-Seth_Rollins_November_2013.jpg",
+    "nombre": "Seth Rollins",
+    "apodo": "The Architect",
+    "breve_descripcion": "Debutó en 2010. Conocido por su habilidad técnica y su agresividad, Seth Rollins ha sido una de las figuras más versátiles y populares de la WWE.",
+    "campeonatos": [
+      "Campeón de la WWE (2 veces)",
+      "Campeón Universal (1 vez)",
+      "Money in the Bank (2014)"
+    ]
+  },
+  {
+    "id": 24,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/WRESTLING_NEWS_-1_1976_All_Star_Edition_Living_Legend_BRUNO_SAMMARTINO_Photo.jpg/800px-WRESTLING_NEWS_-1_1976_All_Star_Edition_Living_Legend_BRUNO_SAMMARTINO_Photo.jpg",
+    "nombre": "Bruno Sammartino",
+    "apodo": "The Living Legend",
+    "breve_descripcion": "Debutó en 1959. Conocido por su reinado histórico de más de 2.800 días como Campeón Mundial Peso Pesado de la WWWF.",
+    "campeonatos": [
+      "Campeón Mundial Peso Pesado de la WWWF (2 veces)",
+      "Campeón de la WWE (1 vez)"
+    ]
+  },
+  {
+    "id": 25,
+    "imagen": "https://sportsposterwarehouse.com/cdn/shop/products/andrethegiant87pf-1_large.jpg?v=1496332404",
+    "nombre": "André the Giant",
+    "apodo": "The Eighth Wonder of the World",
+    "breve_descripcion": "Debutó en 1966. Considerado uno de los luchadores más grandes de todos los tiempos, fue una de las figuras más icónicas de la historia de la WWE.",
+    "campeonatos": [
+      "Campeón Mundial Peso Pesado de la WWE (1 vez)"
+    ]
+  },
+  {
+    "id": 26,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/4/4f/The_Ultimate_Warrior_entrance_April_7th_2014_%28cropped%29.jpg",
+    "nombre": "Ultimate Warrior",
+    "apodo": "The Ultimate Warrior",
+    "breve_descripcion": "Debutó en 1987. Conocido por su energía frenética y su carisma, el Ultimate Warrior fue uno de los luchadores más explosivos de la historia de la WWE.",
+    "campeonatos": [
+      "Campeón de la WWE (1 vez)",
+      "Campeón Intercontinental (2 veces)"
+    ]
+  },
+  {
+    "id": 27,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/20230122sting1_%28cropped%29.jpg/800px-20230122sting1_%28cropped%29.jpg",
+    "nombre": "Sting",
+    "apodo": "The Icon",
+    "breve_descripcion": "Debutó en 1985. Conocido por su rivalidad con Ric Flair y su icónico personaje, Sting es uno de los luchadores más legendarios de la lucha libre.",
+    "campeonatos": [
+      "Campeón Mundial Peso Pesado de la WCW (6 veces)",
+      "Campeón de los Estados Unidos (1 vez)"
+    ]
+  },
+  {
+    "id": 28,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Dave_Bautista_Photo_Op_GalaxyCon_Minneapolis_2019.jpg/800px-Dave_Bautista_Photo_Op_GalaxyCon_Minneapolis_2019.jpg",
+    "nombre": "Batista",
+    "apodo": "The Animal",
+    "breve_descripcion": "Debutó en 2000. Conocido por su fuerza bruta y su presencia en el ring, Batista fue uno de los luchadores más dominantes en la WWE durante su carrera.",
+    "campeonatos": [
+      "Campeón de la WWE (6 veces)",
+      "Campeón Mundial Peso Pesado (4 veces)",
+      "Royal Rumble (2005)"
+    ]
+  },
+  {
+    "id": 29,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/NewJeffHardy1.JPG/800px-NewJeffHardy1.JPG",
+    "nombre": "Jeff Hardy",
+    "apodo": "The Charismatic Enigma",
+    "breve_descripcion": "Debutó en 1994. Conocido por su estilo de lucha extremo y su carisma, Jeff Hardy es una de las estrellas más emocionantes en la historia de la WWE.",
+    "campeonatos": [
+      "Campeón de la WWE (1 vez)",
+      "Campeón Mundial Peso Pesado (1 vez)",
+      "Campeón en Parejas (6 veces)"
+    ]
+  },
+  {
+    "id": 30,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Jerry_Lawler_%2849732536996%29.jpg/800px-Jerry_Lawler_%2849732536996%29.jpg",
+    "nombre": "Jerry 'The King' Lawler",
+    "apodo": "The King",
+    "breve_descripcion": "Debutó en 1970. Conocido por su estilo único y su reinado como Campeón de los Estados Unidos, Jerry Lawler es una leyenda de la WWE.",
+    "campeonatos": [
+      "Campeón de los Estados Unidos (1 vez)",
+      "Campeón en Parejas (1 vez)"
+    ]
+  }
+  {
+    "id": 31,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/3/33/Ted_DiBiase_and_Sycho_Sid.jpg",
+    "nombre": "Ted DiBiase",
+    "apodo": "The Million Dollar Man",
+    "breve_descripcion": "Debutó en 1975. Conocido por su riqueza ficticia y su actitud arrogante, Ted DiBiase fue uno de los villanos más populares en la WWE.",
+    "campeonatos": [
+      "Campeón de la WWE (1 vez)",
+      "Campeón en Parejas (1 vez)"
+    ]
+  },
+  {
+    "id": 32,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Jake_Roberts_Photo_Op_GalaxyCon_Raleigh_2022.jpg/800px-Jake_Roberts_Photo_Op_GalaxyCon_Raleigh_2022.jpg",
+    "nombre": "Jake 'The Snake' Roberts",
+    "apodo": "The Snake",
+    "breve_descripcion": "Debutó en 1986. Conocido por su habilidad para manipular la psicología del ring y su famosa serpiente Damien, Jake Roberts fue uno de los luchadores más complejos.",
+    "campeonatos": [
+      "Campeón de los Estados Unidos (1 vez)"
+    ]
+  },
+  {
+    "id": 33,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/d/df/Booker_Huffman_2.jpg",
+    "nombre": "Booker T",
+    "apodo": "King Booker",
+    "breve_descripcion": "Debutó en 1989. Conocido por su estilo de lucha y su reinado como campeón mundial, Booker T es una de las leyendas más queridas de la WWE.",
+    "campeonatos": [
+      "Campeón Mundial Peso Pesado (4 veces)",
+      "Campeón Intercontinental (3 veces)",
+      "King of the Ring (2006)"
+    ]
+  },
+  {
+    "id": 34,
+    "imagen": "https://static.wikia.nocookie.net/p__/images/5/52/Kevin_Nash_as_Diesel.png/revision/latest/scale-to-width-down/325?cb=20160125015909&path-prefix=protagonist",
+    "nombre": "Kevin Nash",
+    "apodo": "Big Daddy Cool",
+    "breve_descripcion": "Debutó en 1990. Conocido por su tamaño y su papel en el grupo nWo, Kevin Nash fue uno de los luchadores más dominantes en la historia de la lucha libre.",
+    "campeonatos": [
+      "Campeón de la WWE (1 vez)",
+      "Campeón Mundial Peso Pesado (5 veces)"
+    ]
+  },
+  {
+    "id": 35,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Razor_Ramon_IC_Champ.jpg/800px-Razor_Ramon_IC_Champ.jpg",
+    "nombre": "Scott Hall",
+    "apodo": "Razor Ramon",
+    "breve_descripcion": "Debutó en 1984. Conocido por su personaje de 'Razor Ramon' y su rol en el nWo, Scott Hall fue un pionero de la lucha moderna.",
+    "campeonatos": [
+      "Campeón Intercontinental (4 veces)",
+      "Campeón Mundial Peso Pesado de la WCW (2 veces)"
+    ]
+  },
+  {
+    "id": 36,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Dusty_Rhodes%2C_circa_1982.png",
+    "nombre": "Dusty Rhodes",
+    "apodo": "The American Dream",
+    "breve_descripcion": "Debutó en 1968. Conocido por su estilo único y su conexión con el público, Dusty Rhodes es uno de los luchadores más carismáticos de la historia.",
+    "campeonatos": [
+      "Campeón Mundial Peso Pesado de la NWA (3 veces)",
+      "Campeón de los Estados Unidos (1 vez)"
+    ]
+  },
+  {
+    "id": 37,
+    "imagen": "https://signedbysuperstars.com/cdn/shop/products/2022-08-11-17-25-0002.jpg?v=1660779264",
+    "nombre": "Roddy Piper",
+    "apodo": "Hot Rod",
+    "breve_descripcion": "Debutó en 1969. Conocido por su personalidad explosiva y su habilidad para hacer que el público lo odiara, Roddy Piper fue uno de los luchadores más influyentes.",
+    "campeonatos": [
+      "Campeón Intercontinental (1 vez)",
+      "Campeón en Parejas (1 vez)"
+    ]
+  },
+  {
+    "id": 38,
+    "imagen": "https://m.media-amazon.com/images/M/MV5BYjZkYmZjMDEtYThiNi00ZThhLWFlMTctODU2MzU2ZjVkNDg3XkEyXkFqcGc@._V1_.jpg",
+    "nombre": "Mr. Perfect",
+    "apodo": "The Perfect One",
+    "breve_descripcion": "Debutó en 1980. Conocido por su habilidad técnica y su carisma, Mr. Perfect es considerado uno de los mejores luchadores técnicos de todos los tiempos.",
+    "campeonatos": [
+      "Campeón Intercontinental (2 veces)"
+    ]
+  },
+  {
+    "id": 39,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Kane_2013.jpg/800px-Kane_2013.jpg",
+    "nombre": "Kane",
+    "apodo": "The Big Red Machine",
+    "breve_descripcion": "Debutó en 1997. Conocido por su personaje aterrador y su dominio en el ring, Kane es una de las leyendas más temidas en la WWE.",
+    "campeonatos": [
+      "Campeón de la WWE (1 vez)",
+      "Campeón Mundial Peso Pesado (2 veces)",
+      "Royal Rumble (1997)"
+    ]
+  },
+  {
+    "id": 40,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Big_Show_IC_Champ_in_London.jpg/800px-Big_Show_IC_Champ_in_London.jpg",
+    "nombre": "Big Show",
+    "apodo": "The World's Largest Athlete",
+    "breve_descripcion": "Debutó en 1995. Conocido por su increíble tamaño y fuerza, Big Show es uno de los luchadores más imponentes en la historia de la WWE.",
+    "campeonatos": [
+      "Campeón de la WWE (2 veces)",
+      "Campeón Mundial Peso Pesado (2 veces)",
+      "Campeón Intercontinental (1 vez)"
+    ]
+  }
+  {
+    "id": 41,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Sheamus_April_2012.jpg/800px-Sheamus_April_2012.jpg",
+    "nombre": "Sheamus",
+    "apodo": "The Celtic Warrior",
+    "breve_descripcion": "Debutó en 2006. Conocido por su poderosa presencia y estilo de lucha físico, Sheamus es uno de los luchadores más exitosos de la era moderna.",
+    "campeonatos": [
+      "Campeón Mundial Peso Pesado (4 veces)",
+      "Campeón de la WWE (1 vez)",
+      "Campeón de los Estados Unidos (2 veces)"
+    ]
+  },
+  {
+    "id": 42,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Finn_Balor_2020.jpg/800px-Finn_Balor_2020.jpg",
+    "nombre": "Finn Bálor",
+    "apodo": "The Demon King",
+    "breve_descripcion": "Debutó en 2004. Conocido por su habilidad atlética y su personaje demoníaco, Finn Bálor es una de las estrellas más emocionantes de la WWE.",
+    "campeonatos": [
+      "Campeón Universal (1 vez)",
+      "Campeón Intercontinental (2 veces)"
+    ]
+  },
+  {
+    "id": 43,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Samoa_Joe_2017.jpg/800px-Samoa_Joe_2017.jpg",
+    "nombre": "Samoa Joe",
+    "apodo": "The Samoan Submission Machine",
+    "breve_descripcion": "Debutó en 2000. Conocido por su estilo de lucha agresivo y su habilidad para someter a sus oponentes, Samoa Joe ha sido uno de los luchadores más imponentes.",
+    "campeonatos": [
+      "Campeón Mundial Peso Pesado de la WWE (1 vez)",
+      "Campeón de los Estados Unidos (2 veces)"
+    ]
+  },
+  {
+    "id": 44,
+    "imagen": "https://preview.redd.it/what-if-in-2009-jbl-did-not-have-back-injuries-and-stayed-v0-51qsvd8j8psd1.jpeg?width=640&crop=smart&auto=webp&s=c87b8b44948ccbeee41331ed282b5fe8ccfcbcf7",
+    "nombre": "JBL (John 'Bradshaw' Layfield)",
+    "apodo": "The Wrestling God",
+    "breve_descripcion": "Debutó en 1995. Conocido por su estilo de lucha rudo y su personaje de millonario, JBL fue uno de los luchadores más odiados en la WWE.",
+    "campeonatos": [
+      "Campeón Mundial Peso Pesado (1 vez)",
+      "Campeón de los Estados Unidos (1 vez)"
+    ]
+  },
+  {
+    "id": 45,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Dolph_Ziggler_2010_Tribute_to_the_Troops.jpg/800px-Dolph_Ziggler_2010_Tribute_to_the_Troops.jpg",
+    "nombre": "Dolph Ziggler",
+    "apodo": "The Showoff",
+    "breve_descripcion": "Debutó en 2004. Conocido por su increíble habilidad atlética y su estilo de lucha espectacular, Dolph Ziggler es uno de los luchadores más talentosos.",
+    "campeonatos": [
+      "Campeón Intercontinental (2 veces)",
+      "Campeón Mundial Peso Pesado (1 vez)"
+    ]
+  },
+  {
+    "id": 46,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/United_States_Champion_Dean_Ambrose_2.jpg/800px-United_States_Champion_Dean_Ambrose_2.jpg",
+    "nombre": "Dean Ambrose (Jon Moxley)",
+    "apodo": "The Lunatic Fringe",
+    "breve_descripcion": "Debutó en 2004. Conocido por su estilo impredecible y su personalidad rebelde, Dean Ambrose ha sido una de las estrellas más populares de la WWE.",
+    "campeonatos": [
+      "Campeón de la WWE (1 vez)",
+      "Campeón Intercontinental (1 vez)",
+      "Royal Rumble (2016)"
+    ]
+  },
+  {
+    "id": 47,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Shinsuke_Nakamura_2024.jpg/800px-Shinsuke_Nakamura_2024.jpg",
+    "nombre": "Shinsuke Nakamura",
+    "apodo": "The King of Strong Style",
+    "breve_descripcion": "Debutó en 2004. Conocido por su estilo de lucha fuerte y su presencia carismática, Nakamura es una de las estrellas más intrigantes de la WWE.",
+    "campeonatos": [
+      "Campeón de los Estados Unidos (1 vez)",
+      "Campeón Intercontinental (2 veces)"
+    ]
+  },
+  {
+    "id": 48,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/WWE_Tag_Team_Champion_Kofi_Kingston.jpg/800px-WWE_Tag_Team_Champion_Kofi_Kingston.jpg",
+    "nombre": "Kofi Kingston",
+    "apodo": "The Jamaican Superstar",
+    "breve_descripcion": "Debutó en 2006. Conocido por su estilo de lucha ágil y su carisma, Kofi Kingston ha sido una de las figuras más populares de la WWE.",
+    "campeonatos": [
+      "Campeón de la WWE (1 vez)",
+      "Campeón Intercontinental (4 veces)"
+    ]
+  },
+  {
+    "id": 49,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Tha_Miz.jpg",
+    "nombre": "The Miz",
+    "apodo": "The A-Lister",
+    "breve_descripcion": "Debutó en 2006. Conocido por su gran capacidad de micrófono y su actitud arrogante, The Miz es uno de los luchadores más destacados de la era moderna.",
+    "campeonatos": [
+      "Campeón de la WWE (2 veces)",
+      "Campeón Intercontinental (8 veces)"
+    ]
+  },
+  {
+    "id": 50,
+    "imagen": "https://superluchas.com/cl_resize/eLsmyAvD6Qb2vjDmtGL8SLpsfvXU9YT0K-Fk2S4OAkI/rs:fill:500:0/g:ce/q:70/aHR0cHM6Ly9zMy5zdXBlcmx1Y2hhcy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTkwMzE5MTc1NzU2L2JpbGwtZ29sZGJlcmcuanBn",
+    "nombre": "Goldberg",
+    "apodo": "The Icon",
+    "breve_descripcion": "Debutó en 1997. Conocido por su impresionante racha invicta y su poder destructivo, Goldberg es una leyenda en la lucha libre.",
+    "campeonatos": [
+      "Campeón Universal (2 veces)",
+      "Campeón Mundial Peso Pesado (1 vez)"
+    ]
+  }
+]
